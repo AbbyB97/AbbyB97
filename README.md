@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫 Hi, I am Abhijit Thanks for visiting my profile!
 💬  Ask me about React, Nextjs
 
 📩 How to reach me bansodeabhijit1997@gmail.com
