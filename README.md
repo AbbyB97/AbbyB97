@@ -40,19 +40,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=AbbyB97&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbbyB97&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyB97&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbbyB97&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" width="600" height="300"/>
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbyB97&theme=monokai&hide_border=true" width="600" height="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyB97&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="600" height="300"/>
 </div>
+  
+  
 ### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
