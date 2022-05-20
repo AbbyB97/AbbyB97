@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 # 💫 Hi, I am Abhijit Thanks for visiting my profile!
 💬  Ask me about React, Nextjs
 
