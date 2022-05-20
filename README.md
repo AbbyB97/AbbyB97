@@ -29,18 +29,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbbyB97&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-### 📱 Latest Tweets
-{% twitter https://twitter.com/rubygems/status/518821243320287232 %}
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
-
-
-
-#### Timeline
-
-An example of a Timeline - `{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}`
-
-![Embedded timeline](https://raw.githubusercontent.com/rob-murray/jekyll-twitter-plugin/master/media/embedded-timeline.png "Screenshot of embedded timeline")
-
