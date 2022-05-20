@@ -32,6 +32,6 @@
 
 
 ### 📱 Latest Tweets
-
+{% twitter https://twitter.com/rubygems/status/518821243320287232 %}
 <!-- TWITTER:START -->
 <!-- TWITTER:END -->
