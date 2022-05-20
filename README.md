@@ -18,8 +18,9 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://visitcount.itsvg.in/api?id=AbbyB97&icon=0&color=0" width="600" height="300"/>  
 </div>
+  <img src="https://visitcount.itsvg.in/api?id=AbbyB97&icon=0&color=0" width="600" height="300"/>  
+
 
 # 😎 About me : 
 
