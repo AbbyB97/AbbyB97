@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<center>
-<div id="badges" alighn="center">
+<div style="display:flex">
+<div id="badges" alighn="center" style="display: flex;justify-content: center;">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,7 +17,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</center>
+</div>
 # 💫 Hi, I am Abhijit Thanks for visiting my profile!
 💬  Ask me about React, Nextjs
 
