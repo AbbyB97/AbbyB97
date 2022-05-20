@@ -35,3 +35,12 @@
 {% twitter https://twitter.com/rubygems/status/518821243320287232 %}
 <!-- TWITTER:START -->
 <!-- TWITTER:END -->
+
+
+
+#### Timeline
+
+An example of a Timeline - `{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}`
+
+![Embedded timeline](https://raw.githubusercontent.com/rob-murray/jekyll-twitter-plugin/master/media/embedded-timeline.png "Screenshot of embedded timeline")
+
