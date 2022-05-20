@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=AbbyB97&style=flat-square&color=blue" alt=""/>
+  <img src="https://visitcount.itsvg.in/api?id=AbbyB97&icon=0&color=0" alt=""/>
 </div>
 
 # 😎 About me : 
