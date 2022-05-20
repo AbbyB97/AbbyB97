@@ -6,11 +6,7 @@
 
 </div>
 <div id="header" align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=AbbyB97&icon=0&color=0" alt=""/>
-</div>
-<div id="header" align="center">
-
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <div id="badges">
   <a href="your-linkedin-URL">
@@ -23,6 +19,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  
 </div>
 
 # 😎 About me : 
