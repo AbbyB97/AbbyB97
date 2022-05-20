@@ -5,8 +5,9 @@
 </h1>
 
 </div>
-<div id="header" align="center">
       <img src="https://visitcount.itsvg.in/api?id=AbbyB97&icon=0&color=0" alt=""/>
+
+<div id="header" align="center">
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <div id="badges">
