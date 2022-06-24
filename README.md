@@ -53,9 +53,3 @@
 <div id="header" align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" height="300"/>
 </div>
-
-### 😂Just a random Dev Meme
-<div id="header" align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px"/>
-</div>
-
