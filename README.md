@@ -31,9 +31,9 @@
 
 📩 You can email me : bansodeabhijit1997@gmail.com
 
-🤝 I’m looking for help with NodeJS, Express, Docker
+🤝 I’m looking for some open source projects that I can be a part of
 
-🌱 I’m currently learning NodeJS,Express
+🌱 I’m currently getting used to backend technologies, there is so much to learn!
 
 👨‍💻 All of my projects are available at https://abbyb97.github.io/abhijitbansode/
 
