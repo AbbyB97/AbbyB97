@@ -35,7 +35,7 @@
 
 🌱 I’m currently getting used to backend technologies, there is so much to learn!
 
-👨‍💻 All of my projects are available at https://abbyb97.github.io/abhijitbansode/
+👨‍💻 All of my projects are available at https://abhijit-b.vercel.app/
 
 🍕 Fun fact : I love Pizza pizza
 
