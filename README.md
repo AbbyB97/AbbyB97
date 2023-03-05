@@ -45,7 +45,7 @@
 ## 🏆 GitHub Trophies
 <div id="header" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abbyb97&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="600" height="300"/>
-<div id="header" align="center">
+</div>
 
 # 📊 GitHub Stats :
 <div id="header" align="center">
@@ -53,7 +53,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbyB97&theme=monokai&hide_border=true" width="600" height="300"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyB97&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="600" height="300"/>
 </div>
-  
+
+## 🐦 Latest Tweet
+<div id="header" align="center">
+    <img src="https://gtce.itsvg.in/api?username=b_abby97" width="600" height="300"/>
+</div>
+
 ### ✍️ Today's Dev Quote
 <div id="header" align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" height="300"/>
