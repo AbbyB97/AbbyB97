@@ -27,7 +27,7 @@
 
 # 😎 About me : 
 
-💬  Ask me about React, Nextjs
+💬  Ask me about React, Nextjs, Chakra UI
 
 📩 You can email me : bansodeabhijit1997@gmail.com
 
