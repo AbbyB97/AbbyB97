@@ -1,3 +1,14 @@
+
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+  I am Abhijit Thanks for visiting my profile!
+</h1>
+
+</div>
+
+
 # 💫 About Me:
 💬 Ask me about React, Nextjs, Chakra UI<br><br>📩 You can email me : bansodeabhijit1997@gmail.com<br><br>🤝🏿 I’m looking for some open source projects that I can be a part of<br><br>🌱 I’m currently getting used to backend technologies, there is so much to learn!<br><br>👨🏿‍💻 All of my projects are available at https://abhijit-b.vercel.app/<br><br>🍕 Fun fact : I love Pizza pizza
 
