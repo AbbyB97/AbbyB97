@@ -1,11 +1,28 @@
-
-
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   I am Abhijit Thanks for visiting my profile!
 </h1>
 
+</div>
+<div id="header" align="center">
+  <div id="header" align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=AbbyB97&style=flat-square&color=blue" alt=""/>
+  </div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/abhijit-b97/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@abhijitbansode" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://twitter.com/b_abby97" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  
 </div>
 
 
