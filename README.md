@@ -46,12 +46,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abbyb97&theme=flat&no-frame=false&no-bg=false&margin-w=4" width="600" height="300"/>
 </div>
 
-## 🐦 Latest Tweet
+# 🐦 Latest Tweet
 <div id="header" align="center">
   <img src="https://gtce.itsvg.in/api?username=b_abby97" width="600" height="300"/>
 </div>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 <div id="header" align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="600" height="300"/>
 </div>
