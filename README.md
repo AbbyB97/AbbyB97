@@ -40,7 +40,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyb97&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600" height="300"/>
 </div>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div id="header" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abbyb97&theme=flat&no-frame=false&no-bg=false&margin-w=4" width="600" height="300"/>
