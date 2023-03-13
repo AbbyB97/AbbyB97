@@ -35,15 +35,15 @@
 # 📊 GitHub Stats:
 
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbyb97&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="600" height="300"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbyb97&theme=monokai&hide_border=false" width="600" height="300"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyb97&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abbyb97&theme=default&hide_border=false&include_all_commits=true&count_private=true" width="600" height="300"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbyb97&theme=default&hide_border=false" width="600" height="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyb97&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600" height="300"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div id="header" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abbyb97&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="600" height="300"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abbyb97&theme=flat&no-frame=false&no-bg=false&margin-w=4" width="600" height="300"/>
 </div>
 
 ## 🐦 Latest Tweet
@@ -53,7 +53,7 @@
 
 ### ✍️ Random Dev Quote
 <div id="header" align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" height="300"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="600" height="300"/>
 </div>
 
 ---
