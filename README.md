@@ -46,15 +46,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abbyb97&theme=flat&no-frame=false&no-bg=false&margin-w=4" width="600" height="300"/>
 </div>
 
-# 🐦 Latest Tweet
-<div id="header" align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=b_abby97&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
-</div>
-
 # ✍️ Random Dev Quote
 <div id="header" align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="600" height="300"/>
 </div>
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
