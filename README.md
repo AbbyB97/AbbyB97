@@ -48,7 +48,7 @@
 
 # 🐦 Latest Tweet
 <div id="header" align="center">
-  <img src="https://gtce.itsvg.in/api?username=b_abby97" width="600" height="300"/>
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=b_abby97&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 </div>
 
 # ✍️ Random Dev Quote
